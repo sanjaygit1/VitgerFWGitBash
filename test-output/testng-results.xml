@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-13T10:53:11 IST" name="Suite" finished-at="2024-12-13T10:53:35 IST" duration-ms="24805">
+    <groups>
+      <group name="sanity">
+        <method signature="CreateProductTest.createProductTest()[pri:0, instance:Product.CreateProductTest@533bda92]" name="createProductTest" class="Product.CreateProductTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-12-13T10:53:11 IST" name="TestRunner1" finished-at="2024-12-13T10:53:33 IST" duration-ms="22193">
+      <class name="Campaign.CreateCampaignTest">
+        <test-method is-config="true" signature="bt()[pri:0, instance:Campaign.CreateCampaignTest@645aa696]" started-at="2024-12-13T10:53:11 IST" name="bt" finished-at="2024-12-13T10:53:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:Campaign.CreateCampaignTest@645aa696]" started-at="2024-12-13T10:53:11 IST" name="bc" finished-at="2024-12-13T10:53:13 IST" duration-ms="1801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:Campaign.CreateCampaignTest@645aa696]" started-at="2024-12-13T10:53:13 IST" name="bm" finished-at="2024-12-13T10:53:17 IST" duration-ms="4577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="createCampaignTest()[pri:0, instance:Campaign.CreateCampaignTest@645aa696]" started-at="2024-12-13T10:53:17 IST" name="createCampaignTest" finished-at="2024-12-13T10:53:31 IST" duration-ms="13447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCampaignTest -->
+        <test-method is-config="true" signature="am()[pri:0, instance:Campaign.CreateCampaignTest@645aa696]" started-at="2024-12-13T10:53:31 IST" name="am" finished-at="2024-12-13T10:53:33 IST" duration-ms="1767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:Campaign.CreateCampaignTest@645aa696]" started-at="2024-12-13T10:53:33 IST" name="ac" finished-at="2024-12-13T10:53:33 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:Campaign.CreateCampaignTest@645aa696]" started-at="2024-12-13T10:53:33 IST" name="at" finished-at="2024-12-13T10:53:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- Campaign.CreateCampaignTest -->
+    </test> <!-- TestRunner1 -->
+    <test started-at="2024-12-13T10:53:11 IST" name="TestRunner2" finished-at="2024-12-13T10:53:35 IST" duration-ms="24805">
+      <class name="Product.CreateProductTest">
+        <test-method is-config="true" signature="bs()[pri:0, instance:Product.CreateProductTest@533bda92]" started-at="2024-12-13T10:53:11 IST" name="bs" finished-at="2024-12-13T10:53:11 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:Product.CreateProductTest@533bda92]" started-at="2024-12-13T10:53:11 IST" name="bt" finished-at="2024-12-13T10:53:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:Product.CreateProductTest@533bda92]" started-at="2024-12-13T10:53:11 IST" name="bc" finished-at="2024-12-13T10:53:13 IST" duration-ms="1801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:Product.CreateProductTest@533bda92]" started-at="2024-12-13T10:53:13 IST" name="bm" finished-at="2024-12-13T10:53:18 IST" duration-ms="5190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="createProductTest()[pri:0, instance:Product.CreateProductTest@533bda92]" started-at="2024-12-13T10:53:18 IST" name="createProductTest" finished-at="2024-12-13T10:53:33 IST" duration-ms="15213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method is-config="true" signature="am()[pri:0, instance:Product.CreateProductTest@533bda92]" started-at="2024-12-13T10:53:33 IST" name="am" finished-at="2024-12-13T10:53:35 IST" duration-ms="2022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:Product.CreateProductTest@533bda92]" started-at="2024-12-13T10:53:35 IST" name="ac" finished-at="2024-12-13T10:53:35 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:Product.CreateProductTest@533bda92]" started-at="2024-12-13T10:53:35 IST" name="at" finished-at="2024-12-13T10:53:35 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:Product.CreateProductTest@533bda92]" started-at="2024-12-13T10:53:36 IST" name="as" finished-at="2024-12-13T10:53:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- Product.CreateProductTest -->
+    </test> <!-- TestRunner2 -->
+  </suite> <!-- Suite -->
+</testng-results>
